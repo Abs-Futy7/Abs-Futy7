@@ -14,12 +14,6 @@
 
 I'm a passionate Computer Science & Engineering student at the **University of Dhaka**, with a strong focus on full-stack development and mobile application development. I love creating innovative solutions and learning cutting-edge technologies.
 
-- 🔭 Currently working on **Next.js and Flutter projects**
-- 🌱 Learning **FastAPI, System Design, and Cloud Architecture**
-- 👯 Looking to collaborate on **open-source projects**
-- 💬 Ask me about **React, Flutter, FastAPI, or Competitive Programming**
-- ⚡ Fun fact: **I love solving algorithmic challenges on Codeforces**
-
 ## 🤝 Connect with me
 <p align="center">
 <a href="https://twitter.com/abs_futy7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abs_futy7" height="30" width="40" /></a>
