@@ -116,6 +116,9 @@
 
 ## 📊 GitHub Statistics
 
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
 <table>
 <tr>
@@ -126,13 +129,31 @@
 </td>
 <td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abs-futy7&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=38BDAE&currStreakLabel=70A5FD" alt="GitHub Streak" />
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=abs-futy7&theme=tokyonight&hide_border=true&background=1A1B27&stroke=70A5FD&ring=70A5FD&fire=38BDAE&currStreakLabel=70A5FD&sideLabels=70A5FD&dates=9CA3AF" alt="GitHub Streak" /></a>
 
 </td>
 </tr>
 </table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abs-futy7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" />
+
+### 📊 Additional Stats
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abs-futy7&theme=tokyonight" alt="Profile Summary" />
+</div>
+
+<div align="center">
+<table>
+<tr>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abs-futy7&theme=tokyonight" alt="Repos per Language" />
+</td>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abs-futy7&theme=tokyonight" alt="Most Commit Language" />
+</td>
+</tr>
+</table>
+</div>
 
 ### 🏆 GitHub Trophies
 <img src="https://github-profile-trophy.vercel.app/?username=abs-futy7&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
