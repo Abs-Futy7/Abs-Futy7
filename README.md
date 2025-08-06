@@ -1,20 +1,48 @@
+<div align="center">
+
 # Hi there! 👋 I'm MD. Abu Bakar Siddique
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer;Mobile+App+Developer;Always+Learning+New+Technologies)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;Always+Learning+New+Technologies+%F0%9F%93%9A;Problem+Solver+%26+Code+Enthusiast+%F0%9F%92%BB)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abs-futy7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abs-futy7" />
+  <img src="https://img.shields.io/github/followers/abs-futy7?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+  <img src="https://img.shields.io/github/stars/abs-futy7?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+</p>
 
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abs-futy7&label=Profile%20views&color=0e75b6&style=flat" alt="abs-futy7" />
-</p>
-
 ## 🎓 About Me
 
-I'm a passionate Computer Science & Engineering student at the **University of Dhaka**, with a strong focus on full-stack development and mobile application development. I love creating innovative solutions and learning cutting-edge technologies.
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
+
+🌟 I'm a passionate **Computer Science & Engineering student** at the **University of Dhaka**, with a strong focus on full-stack development and mobile application development. 
+
+💡 I love creating innovative solutions and learning cutting-edge technologies that make a difference in the world.
+
+🚀 **Currently focused on:**
+- 🔭 Building scalable web applications with **React** and **Next.js**
+- 📱 Developing cross-platform mobile apps with **Flutter**
+- 🌐 Exploring modern backend technologies
+- 📊 Diving deep into **Data Structures & Algorithms**
+- 🤖 Learning about **AI/ML** integration
+
+<br clear="both">
+
+
 
 ## 🤝 Connect with me
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400">
+
+<br><br>
+
 <p align="center">
 <a href="https://twitter.com/abs_futy7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abs_futy7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md. abu bakar siddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. abu bakar siddique" height="30" width="40" /></a>
@@ -24,9 +52,17 @@ I'm a passionate Computer Science & Engineering student at the **University of D
 <a href="https://codeforces.com/profile/abs_du" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abs_du" height="30" width="40" /></a>
 </p>
 
+</div>
+
 ## 🛠️ Languages and Tools
 
-### Frontend Development
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
+
+</div>
+
+###  Frontend Development
 <p align="left">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
@@ -43,7 +79,7 @@ I'm a passionate Computer Science & Engineering student at the **University of D
 <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
 </p>
 
-### Backend Development
+###  Backend Development
 <p align="left">
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
@@ -58,13 +94,13 @@ I'm a passionate Computer Science & Engineering student at the **University of D
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
-### Databases & Cloud
+###  Databases & Cloud
 <p align="left">
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 </p>
 
-### Tools & Design
+###  Tools & Design
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
@@ -74,25 +110,39 @@ I'm a passionate Computer Science & Engineering student at the **University of D
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
 </p>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200">
+</div>
+
 ## 📊 GitHub Statistics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abs-futy7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<table>
+<tr>
+<td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abs-futy7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=abs-futy7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abs-futy7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</td>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abs-futy7&theme=tokyonight&hide_border=true&background=1A1B27&ring=70A5FD&fire=38BDAE&currStreakLabel=70A5FD" alt="GitHub Streak" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abs-futy7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" />
+
+### 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=abs-futy7&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abs-futy7&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
 
 </div>
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=abs-futy7&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 
 
