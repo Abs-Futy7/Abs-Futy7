@@ -2,7 +2,6 @@
 
 # Hi there! 👋 I'm MD. Abu Bakar Siddique
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;Always+Learning+New+Technologies+%F0%9F%93%9A;Problem+Solver+%26+Code+Enthusiast+%F0%9F%92%BB)](https://git.io/typing-svg)
 
