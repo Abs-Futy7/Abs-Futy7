@@ -116,7 +116,7 @@
 <tr>
 <td>
 
-<img src="https://github-readme-stats.vercel.app/api?username=abs-futy7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Abs-Futy7?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </td>
 <td>
@@ -125,7 +125,7 @@
 
 </td>
 </tr>
-</table>
+</table>zc
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abs-futy7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" />
 
@@ -147,10 +147,10 @@
 </table>
 </div>
 
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=abs-futy7&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+### � LeetCode Stats
+![LeetCode Stats](https://leetcard.jacoblin.cool/bojackabs?theme=dark&font=Raleway&ext=heatmap)
 
-### 📈 Contribution Graph
+### �📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abs-futy7&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
 
 </div>
