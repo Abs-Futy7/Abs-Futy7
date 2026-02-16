@@ -147,8 +147,6 @@
 </table>
 </div>
 
-### � LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/bojackabs?theme=dark&font=Raleway&ext=heatmap)
 
 ### �📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abs-futy7&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
