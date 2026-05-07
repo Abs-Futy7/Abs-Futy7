@@ -1,11 +1,10 @@
 <div align="center">
 
-# Hi there! 👋 I'm MD. Abu Bakar Siddique
+# Hi, I'm Md. Abu Bakar Siddique 👋
 
+### CSE Student @ University of Dhaka | Frontend & Full-Stack Developer | AI/LLM App Builder
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+Science+%26+Engineering+Student;Full+Stack+Developer+%F0%9F%9A%80;Mobile+App+Developer+%F0%9F%93%B1;Always+Learning+New+Technologies+%F0%9F%93%9A;Problem+Solver+%26+Code+Enthusiast+%F0%9F%92%BB)](https://git.io/typing-svg)
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=760&lines=React+%7C+Next.js+%7C+TypeScript+Developer;Building+Full-Stack+Web+Apps+with+FastAPI+%26+Supabase;Exploring+RAG%2C+AI+Agents+%26+LLM-Powered+Products;Cybersecurity+%26+CTF+Enthusiast;Always+Shipping%2C+Learning+and+Improving)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abs-futy7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="abs-futy7" />
@@ -15,108 +14,147 @@
 
 </div>
 
-## 🎓 About Me
+---
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="300">
+## 👨‍💻 About Me
 
-🌟 I'm a passionate **Computer Science & Engineering student** at the **University of Dhaka**, with a strong focus on full-stack development and mobile application development. 
+I'm a **Computer Science & Engineering student at the University of Dhaka** with hands-on experience building **frontend, full-stack, and AI-powered web applications**.
 
-💡 I love creating innovative solutions and learning cutting-edge technologies that make a difference in the world.
+I enjoy turning ideas into usable products with clean UI, strong engineering practices, and practical backend integration. My current work focuses on **Next.js, TypeScript, FastAPI, Supabase, PostgreSQL, RAG systems, and LLM-powered agents**.
 
-🚀 **Currently focused on:**
-- 🔭 Building scalable web applications with **React** and **Next.js**
-- 📱 Developing cross-platform mobile apps with **Flutter**
-- 🌐 Exploring modern backend technologies
-- 📊 Diving deep into **Data Structures & Algorithms**
-- 🤖 Learning about **AI/ML** integration
+- 🎓 CSE student, University of Dhaka
+- 💻 Interested in **Frontend Developer**, **Full-Stack Developer**, and **AI Application Developer** internship roles
+- 🚀 Building projects with **React, Next.js, TypeScript, Tailwind CSS, FastAPI, and Supabase**
+- 🤖 Exploring **RAG systems, AI agents, LangChain, CrewAI, Gemini API, and observability for LLM apps**
+- 🛡️ Active in **cybersecurity and CTF competitions**
+- 🎨 Background in **design, branding, and visual communication**
 
-<br clear="both">
+---
 
-
-
-## 🤝 Connect with me
-
-<div align="center">
+## 🧰 Tech Stack
 
 
-<br><br>
+### Frontend
 
-<p align="center">
-<a href="https://twitter.com/abs_futy7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abs_futy7" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md. abu bakar siddique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. abu bakar siddique" height="30" width="40" /></a>
-<a href="https://fb.com/abu bakar siddique (abs)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abu bakar siddique (abs)" height="30" width="40" /></a>
-<a href="https://instagram.com/_a_bs_750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_a_bs_750" height="30" width="40" /></a>
-<a href="https://www.behance.net/_a_bs_750" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="_a_bs_750" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abs_du" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abs_du" height="30" width="40" /></a>
-</p>
-
-</div>
-
-## 🛠️ Languages and Tools
-
-
-
-###  Frontend Development
 <p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
 </p>
 
-### Mobile Development
+### Backend, Database & Tools
+
 <p align="left">
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-###  Backend Development
+### AI/LLM, Programming & Design
+
 <p align="left">
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/CrewAI-FF6B00?style=for-the-badge" alt="CrewAI" />
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+  <img src="https://img.shields.io/badge/RAG_Systems-2E9EF7?style=for-the-badge" alt="RAG Systems" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
 </p>
 
-### Programming Languages
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-</p>
+**Currently working with:** Next.js, TypeScript, Tailwind CSS, FastAPI, Supabase, PostgreSQL, LangChain, CrewAI, Gemini API, RAG systems, Git/GitHub, Docker
 
-###  Databases & Cloud
-<p align="left">
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-</p>
+---
 
-###  Tools & Design
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/></a>
-</p>
+## 🚀 Featured Projects
 
+### 🔥 Shinra AI
+**AI-powered content automation system**  
+`Next.js` `FastAPI` `Gemini API` `CrewAI` `Agentic AI`
 
+- Built a dual-pipeline multi-agent system that transforms product requirement documents into source-grounded blog articles.
+- Implemented fact-checking and rewrite feedback loops using LLM-powered agents.
+- Added structured logs, metrics, and tracing to improve debugging and evaluation.
+- Developed the project end-to-end with a Next.js frontend and FastAPI agent orchestration backend.
+
+---
+
+### 🧠 MindMate
+**Mental wellness web app built during a hackathon**  
+`Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `Supabase`
+
+- Developed the complete frontend interface with responsive UI components.
+- Built chatbot modules, live calendar, activity heatmap, and interactive user flows.
+- Integrated frontend features with backend APIs for real-time data synchronization.
+- Collaborated in a 3-member team and owned the frontend implementation.
+
+---
+
+### 🌍 VistaVoyage
+**Travel booking and trip planning platform**  
+`Next.js` `TypeScript` `Tailwind CSS` `FastAPI` `PostgreSQL`
+
+- Built a modern travel booking platform with trip planning, booking management, and user authentication features.
+- Designed responsive pages and connected frontend flows with backend APIs.
+- Worked on user experience, data management, and full-stack feature integration.
+
+---
+
+### 🎥 YtVerb
+**Chat with YouTube videos using RAG**  
+`Next.js` `TypeScript` `Supabase` `LangChain` `Gemini API`
+
+- Built a platform that lets users ask questions about YouTube videos using transcript-based retrieval.
+- Processed and indexed video transcripts for contextual question answering.
+- Integrated LLM-powered response generation with a web-based user interface.
+
+---
+
+### 🌐 SyncroX
+**Networking concept simulator and collaborative coding platform**  
+`Python` `Docker` `TCP` `Streamlit`
+
+- Implemented custom TCP protocol concepts including Tahoe and Reno congestion control.
+- Added RTT estimation and reliable data transmission mechanisms.
+- Used Docker for secure, containerized code execution and experimentation.
+
+---
+
+## 🏆 Achievements
+
+- 🥈 **2nd Place — PKI Hackathon 2025**, University Student Category
+- 🥈 **2nd Place — DU CTF 2024**, 25-hour Capture The Flag competition
+- 🥈 **2nd Place — CipherSprint CTF 2025**, Circuit Clash 1.0
+- 🥈 **2nd Place — DIU CyberCon 2025**, National CTF Competition
+- 🥉 **3rd Place — BUP CTF 2025**
+- 🥉 **3rd Place — UAP Cyber Siege 2025**
+- 🏅 **4th Place — Al-Khwarizmi CTF 2026**, among 650+ teams
+
+---
 
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-
-
 <table>
 <tr>
 <td>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Abs-Futy7?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![GitHub Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Abs-Futy7?cardType=level&theme=tokyonight&preferLogin=false)](https://git.io/awesome-stats-card)
 
 </td>
 <td>
@@ -125,35 +163,42 @@
 
 </td>
 </tr>
-</table>zc
+</table>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abs-futy7&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=500" alt="Top Languages" />
 
-### 📊 Additional Stats
-<div align="center">
+<br />
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abs-futy7&theme=tokyonight" alt="Profile Summary" />
-</div>
 
-<div align="center">
-<table>
-<tr>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abs-futy7&theme=tokyonight" alt="Repos per Language" />
-</td>
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abs-futy7&theme=tokyonight" alt="Most Commit Language" />
-</td>
-</tr>
-</table>
-</div>
+<br />
 
-
-### �📈 Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abs-futy7&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="GitHub Activity Graph" />
 
 </div>
 
+---
 
+## 🤝 Connect with Me
 
+<div align="center">
 
+<a href="https://github.com/abs-futy7" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-abs--futy7-181717?style=for-the-badge&logo=github" alt="GitHub" />
+</a>
+<a href="https://codeforces.com/profile/abs_du" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-abs__du-1F8ACB?style=for-the-badge&logo=codeforces" alt="Codeforces" />
+</a>
+<a href="https://www.behance.net/_a_bs_750" target="_blank">
+  <img src="https://img.shields.io/badge/Behance-_a__bs__750-1769FF?style=for-the-badge&logo=behance" alt="Behance" />
+</a>
 
+</div>
+
+<br />
+
+<div align="center">
+
+### Open to Frontend, Full-Stack, and AI/LLM Application Development Internship Opportunities 🚀
+
+</div>
